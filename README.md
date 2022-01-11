@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @hamishakl
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Python & Web3
+- 💞️ I’m looking to collaborate on cryptocurrency projects
+- 📫 How to reach me: hamish@hamishhenare.com
+
+<!---
+hamishakl/hamishakl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
